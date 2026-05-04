@@ -58,18 +58,86 @@ const abhiman = {
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 CYNO — AI Healthcare Coordination
-**Multi-agent AI platform for cancer care**
+### 🧠 CYNO — AI Tumor Board System
+**Multi-agent cancer care coordination platform**
 
 ![Healthcare](https://img.shields.io/badge/Healthcare-AI-4FC3F7?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-- 🤖 5-agent orchestration: Radiology · Pathology · Clinical · Research · Coordinator
-- 📄 OCR → Extraction → Validation → Structured Output pipeline
+- 🤖 5-agent pipeline: Radiology · Pathology · Clinical · Research · Coordinator
+- 📄 OCR → Extraction → Validation → Structured Output
 - ⚡ Async job queue with state machine architecture
-- 🏥 Solves real hospital workflow bottlenecks
-- 🔒 Local LLMs — privacy-first design
+- 🏥 Solves real hospital workflow inefficiencies
+- 🔒 Local LLMs — privacy-first, HIPAA-conscious design
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 BidIntelX — AI Procurement Intelligence
+**Tender evaluation + bid-rigging detection at scale**
+
+![GovTech](https://img.shields.io/badge/GovTech-Procurement-4FC3F7?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-Classifier-F7931E?style=flat-square)
+![Celery](https://img.shields.io/badge/Celery-Task_Queue-37814A?style=flat-square)
+
+- 🔎 4-signal collusion detection: Text · Metadata · Price · Identity
+- 🤖 Hybrid ML: MinHash Jaccard + XGBoost + Isolation Forest
+- 📋 Groq Llama eligibility analysis with deterministic rules engine
+- ⛓️ Chained Celery pipeline with full idempotency guards
+- 👮 Officer override + human-in-the-loop workflow
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Pedestal — Gen-Z Fintech Learning App
+**Gamified micro-learning platform for financial literacy**
+
+![FinTech](https://img.shields.io/badge/FinTech-EdTech-4FC3F7?style=flat-square)
+![React Native](https://img.shields.io/badge/React_Native-Expo-61DAFB?style=flat-square&logo=react)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase)
+
+- ⚡ Reinforced Learning Stack (RLS) — AI-adaptive difficulty engine
+- 💰 Virtual ₹1,00,000 paper trading with real market data
+- 🎮 Energy economy · streaks · XP · global leaderboards
+- 📊 4-dimension adaptive scoring: Risk · Discipline · Knowledge · Stability
+- 🗺️ Duolingo-style skill roadmap with 60-second micro-lessons
+
+</td>
+<td width="50%" valign="top">
+
+### 🧬 GenomIQ — Autonomous Scientific Discovery
+**RL environment where AI agents think like scientists**
+
+![RL](https://img.shields.io/badge/Reinforcement_Learning-MDP-4FC3F7?style=flat-square)
+![Gradio](https://img.shields.io/badge/UI-Gradio-F97316?style=flat-square)
+![OpenEnv](https://img.shields.io/badge/OpenEnv-Compliant-10B981?style=flat-square)
+
+- 🤖 Multi-agent team: Explorer → Validator → Theorist pipeline
+- 🧪 18 tasks across 6 domains (Easy → Medium → Hard)
+- 🔬 Validates against TCGA-BRCA + GEO GSE68465 real datasets
+- 💡 LLM-powered Literature Oracle with 75% genuine signal hints
+- 📈 Multi-Agent outperforms single agents by 17% avg score
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 CLONIQ — Code Similarity Detection
+**AST + CFG + DataFlow structural plagiarism engine**
+
+![CodeIntel](https://img.shields.io/badge/Code_Intelligence-AST-4FC3F7?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-AI_Judge-4285F4?style=flat-square)
+![Live](https://img.shields.io/badge/Live-cloniq--puce.vercel.app-10B981?style=flat-square)
+
+- 🏗️ Three-layer: AST (40%) + CFG (30%) + DataFlow (30%)
+- 🤖 Gemini AI semantic judge for pairs scoring ≥ 70%
+- 📊 Google Sheets batch mode for university-scale analysis
+- 🖥️ Electron desktop app + downloadable PDF reports
+- ✅ Detects renamed variables, reformatted, and obfuscated code
 
 </td>
 <td width="50%" valign="top">
@@ -83,42 +151,9 @@ const abhiman = {
 
 - 📚 Free structured content + mock test systems
 - 🔑 CPT vs CBT innovation — unique test formats
-- 🔐 Session + cookie-based access control
+- 🔐 Session + cookie-based user access control
 - 💰 Freemium model with clear monetization path
 - 🚀 High-scalability target in Indian EdTech market
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 RepliWorld — AI Digital Replica System
-**Next-gen human digital identity platform**
-
-![AI](https://img.shields.io/badge/AI-Digital_Identity-4FC3F7?style=flat-square)
-![LLM](https://img.shields.io/badge/LLM-Integration-7C4DFF?style=flat-square)
-
-- 🧬 Personality + communication style replication
-- 💬 Knowledge-base driven interaction engine
-- ❤️ Emotional response modeling
-- 🔮 Vision: future of personal AI with human likeness
-- 🌍 Digital identity infrastructure for tomorrow
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 UIDAI Analytics — 1M+ Records
-**Enterprise-grade data engineering pipeline**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-![Analytics](https://img.shields.io/badge/Analytics-Data_Engineering-4FC3F7?style=flat-square)
-
-- 🏗️ Full data cleaning + feature engineering pipeline
-- 🗺️ Temporal + geographic analysis at scale
-- 📈 25+ high-quality production visualizations
-- 📋 Executive dashboard + LaTeX reporting
-- ⚙️ Built to handle real-world messy data
 
 </td>
 </tr>
