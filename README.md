@@ -258,44 +258,6 @@ Complete learning ecosystem for IISER/IAT aspirants
 
 </div>
 
----
-
-## `{ achievements }`
-
-<div align="center">
-
-| Achievement | Detail |
-|:---|:---|
-| **Hacktoberfest** | 6+ PRs merged — open source contributor |
-| **Healthcare AI** | Built production-grade multi-agent clinical system (CYNO) |
-| **Big Data** | Engineered analytics pipeline on 1M+ real UIDAI records |
-| **EdTech** | Launched Prep4IISER — structured platform for IISER/IAT aspirants |
-| **Identity AI** | Architected RepliWorld — AI-powered human digital replica concept |
-| **Multi-Domain** | Simultaneous delivery across AI · EdTech · Healthcare · Data Engineering |
-
-</div>
-
----
-
-## `{ roadmap }`
-
-```
- STATUS   MILESTONE
-──────────────────────────────────────────────────────────────────
-  [x]     CYNO v1 — Multi-agent healthcare coordination (shipped)
-  [x]     Prep4IISER — Full EdTech platform (live)
-  [x]     UIDAI Analytics — 1M+ record pipeline (delivered)
-  [x]     RepliWorld — AI digital replica architecture (designed)
-  [x]     Hacktoberfest — 6+ PRs merged (contributor badge)
-  [~]     CYNO v2 — Enhanced orchestration + new specialist agents
-  [~]     Prep4IISER monetization — freemium tier rollout
-  [ ]     Launch SaaS versions of core products
-  [ ]     Build personal tech brand + open source presence
-  [ ]     Multi-product startup ecosystem (3-5 year vision)
-```
-
----
-
 ## `{ philosophy }`
 
 <div align="center">
