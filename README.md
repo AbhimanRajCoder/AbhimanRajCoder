@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0A0A0F,40:0D1B2A,100:1A1A2E&height=280&section=header&text=Abhiman%20Raj&fontSize=60&fontColor=E8F4FD&animation=fadeIn&fontAlignY=45&desc=System%20Builder%20%E2%80%A2%20AI%20Architect%20%E2%80%A2%20Startup%20Founder%20in%20Progress&descAlignY=65&descSize=16&descColor=4FC3F7&stroke=4FC3F7&strokeWidth=1.5" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0A0F,30:0D1B2A,70:0A2540,100:0D1B2A&height=300&section=header&text=ABHIMAN%20RAJ&fontSize=72&fontColor=E8F4FD&animation=fadeIn&fontAlignY=42&desc=System%20Builder%20%20%C2%B7%20%20AI%20Architect%20%20%C2%B7%20%20Startup%20Founder%20in%20Progress&descAlignY=62&descSize=15&descColor=4FC3F7&stroke=4FC3F7&strokeWidth=2" />
 
 </div>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1200&color=4FC3F7&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=%E2%96%B6+Building+systems+that+solve+real+problems%2C+not+just+demos;%E2%96%B6+AI+%C3%97+Healthcare+%C3%97+EdTech+%C3%97+Data+Engineering;%E2%96%B6+Multi-Agent+Orchestration+%7C+Full+Stack+%7C+LLM+Pipelines;%E2%96%B6+From+student+developer+%E2%86%92+system+architect+%E2%86%92+startup+builder" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1400&color=4FC3F7&center=true&vCenter=true&multiline=false&repeat=true&width=780&height=42&lines=Building+systems+that+solve+real+problems+%E2%80%94+not+demos;AI+%C3%97+Healthcare+%C3%97+EdTech+%C3%97+Data+Engineering;Multi-Agent+Orchestration+%7C+LLM+Pipelines+%7C+Full+Stack;Student+Developer+%E2%86%92+System+Architect+%E2%86%92+Startup+Builder" alt="Typing SVG" /></a>
 
 </div>
 
@@ -44,11 +44,15 @@ const abhiman = {
   philosophy   : "Build ecosystems. Think in platforms. Deploy for impact.",
   trajectory   : "Student Developer → System Architect → Startup Founder",
   openTo       : ["Collaborations", "Hackathons", "Startup Co-founding", "Research"],
-  hacktoberfest: "✅ 6+ PRs merged — Hacktoberfest Contributor",
+  hacktoberfest: "6+ PRs merged — Hacktoberfest Contributor",
 };
 ```
 
-> *"Build systems that solve real problems — not just projects that demonstrate concepts."*
+<div align="center">
+
+*"Build systems that solve real problems — not just projects that demonstrate concepts."*
+
+</div>
 
 ---
 
@@ -58,102 +62,108 @@ const abhiman = {
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 CYNO — AI Tumor Board System
-**Multi-agent cancer care coordination platform**
+**CYNO — AI Tumor Board System**
 
-![Healthcare](https://img.shields.io/badge/Healthcare-AI-4FC3F7?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+Multi-agent cancer care coordination platform
 
-- 🤖 5-agent pipeline: Radiology · Pathology · Clinical · Research · Coordinator
-- 📄 OCR → Extraction → Validation → Structured Output
-- ⚡ Async job queue with state machine architecture
-- 🏥 Solves real hospital workflow inefficiencies
-- 🔒 Local LLMs — privacy-first, HIPAA-conscious design
+![Healthcare](https://img.shields.io/badge/Healthcare-AI-0A2540?style=flat-square&labelColor=0D1117&color=4FC3F7)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=4FC3F7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4FC3F7)
 
-</td>
-<td width="50%" valign="top">
-
-### 🔍 BidIntelX — AI Procurement Intelligence
-**Tender evaluation + bid-rigging detection at scale**
-
-![GovTech](https://img.shields.io/badge/GovTech-Procurement-4FC3F7?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-Classifier-F7931E?style=flat-square)
-![Celery](https://img.shields.io/badge/Celery-Task_Queue-37814A?style=flat-square)
-
-- 🔎 4-signal collusion detection: Text · Metadata · Price · Identity
-- 🤖 Hybrid ML: MinHash Jaccard + XGBoost + Isolation Forest
-- 📋 Groq Llama eligibility analysis with deterministic rules engine
-- ⛓️ Chained Celery pipeline with full idempotency guards
-- 👮 Officer override + human-in-the-loop workflow
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 Pedestal — Gen-Z Fintech Learning App
-**Gamified micro-learning platform for financial literacy**
-
-![FinTech](https://img.shields.io/badge/FinTech-EdTech-4FC3F7?style=flat-square)
-![React Native](https://img.shields.io/badge/React_Native-Expo-61DAFB?style=flat-square&logo=react)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase)
-
-- ⚡ Reinforced Learning Stack (RLS) — AI-adaptive difficulty engine
-- 💰 Virtual ₹1,00,000 paper trading with real market data
-- 🎮 Energy economy · streaks · XP · global leaderboards
-- 📊 4-dimension adaptive scoring: Risk · Discipline · Knowledge · Stability
-- 🗺️ Duolingo-style skill roadmap with 60-second micro-lessons
+- 5-agent pipeline: Radiology · Pathology · Clinical · Research · Coordinator
+- OCR → Extraction → Validation → Structured Output
+- Async job queue with state machine architecture
+- Solves real hospital workflow inefficiencies
+- Local LLMs — privacy-first, HIPAA-conscious design
 
 </td>
 <td width="50%" valign="top">
 
-### 🧬 GenomIQ — Autonomous Scientific Discovery
-**RL environment where AI agents think like scientists**
+**BidIntelX — AI Procurement Intelligence**
 
-![RL](https://img.shields.io/badge/Reinforcement_Learning-MDP-4FC3F7?style=flat-square)
-![Gradio](https://img.shields.io/badge/UI-Gradio-F97316?style=flat-square)
-![OpenEnv](https://img.shields.io/badge/OpenEnv-Compliant-10B981?style=flat-square)
+Tender evaluation + bid-rigging detection at scale
 
-- 🤖 Multi-agent team: Explorer → Validator → Theorist pipeline
-- 🧪 18 tasks across 6 domains (Easy → Medium → Hard)
-- 🔬 Validates against TCGA-BRCA + GEO GSE68465 real datasets
-- 💡 LLM-powered Literature Oracle with 75% genuine signal hints
-- 📈 Multi-Agent outperforms single agents by 17% avg score
+![GovTech](https://img.shields.io/badge/GovTech-Procurement-0D1117?style=flat-square&color=4FC3F7)
+![XGBoost](https://img.shields.io/badge/XGBoost-0D1117?style=flat-square&color=4FC3F7)
+![Celery](https://img.shields.io/badge/Celery-0D1117?style=flat-square&color=4FC3F7)
+
+- 4-signal collusion detection: Text · Metadata · Price · Identity
+- Hybrid ML: MinHash Jaccard + XGBoost + Isolation Forest
+- Groq Llama eligibility analysis with deterministic rules engine
+- Chained Celery pipeline with full idempotency guards
+- Officer override + human-in-the-loop workflow
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 CLONIQ — Code Similarity Detection
-**AST + CFG + DataFlow structural plagiarism engine**
+**Pedestal — Gen-Z Fintech Learning App**
 
-![CodeIntel](https://img.shields.io/badge/Code_Intelligence-AST-4FC3F7?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-AI_Judge-4285F4?style=flat-square)
-![Live](https://img.shields.io/badge/Live-cloniq--puce.vercel.app-10B981?style=flat-square)
+Gamified micro-learning platform for financial literacy
 
-- 🏗️ Three-layer: AST (40%) + CFG (30%) + DataFlow (30%)
-- 🤖 Gemini AI semantic judge for pairs scoring ≥ 70%
-- 📊 Google Sheets batch mode for university-scale analysis
-- 🖥️ Electron desktop app + downloadable PDF reports
-- ✅ Detects renamed variables, reformatted, and obfuscated code
+![FinTech](https://img.shields.io/badge/FinTech-EdTech-0D1117?style=flat-square&color=4FC3F7)
+![React Native](https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=4FC3F7)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=4FC3F7)
+
+- Reinforced Learning Stack (RLS) — AI-adaptive difficulty engine
+- Virtual Rs. 1,00,000 paper trading with real market data
+- Energy economy · streaks · XP · global leaderboards
+- 4-dimension adaptive scoring: Risk · Discipline · Knowledge · Stability
+- Duolingo-style skill roadmap with 60-second micro-lessons
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 Prep4IISER — EdTech Platform
-**Complete learning ecosystem for IISER/IAT aspirants**
+**GenomIQ — Autonomous Scientific Discovery**
 
-![EdTech](https://img.shields.io/badge/EdTech-Platform-4FC3F7?style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+RL environment where AI agents think like scientists
 
-- 📚 Free structured content + mock test systems
-- 🔑 CPT vs CBT innovation — unique test formats
-- 🔐 Session + cookie-based user access control
-- 💰 Freemium model with clear monetization path
-- 🚀 High-scalability target in Indian EdTech market
+![RL](https://img.shields.io/badge/Reinforcement_Learning-MDP-0D1117?style=flat-square&color=4FC3F7)
+![Gradio](https://img.shields.io/badge/Gradio-0D1117?style=flat-square&color=4FC3F7)
+![OpenEnv](https://img.shields.io/badge/OpenEnv-Compliant-0D1117?style=flat-square&color=4FC3F7)
+
+- Multi-agent team: Explorer → Validator → Theorist pipeline
+- 18 tasks across 6 domains (Easy → Medium → Hard)
+- Validates against TCGA-BRCA + GEO GSE68465 real datasets
+- LLM-powered Literature Oracle with 75% genuine signal hints
+- Multi-Agent outperforms single agents by 17% avg score
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**CLONIQ — Code Similarity Detection**
+
+AST + CFG + DataFlow structural plagiarism engine
+
+![CodeIntel](https://img.shields.io/badge/Code_Intelligence-AST-0D1117?style=flat-square&color=4FC3F7)
+![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-0D1117?style=flat-square&color=4285F4)
+![Live](https://img.shields.io/badge/Live-cloniq--puce.vercel.app-0D1117?style=flat-square&color=10B981)
+
+- Three-layer: AST (40%) + CFG (30%) + DataFlow (30%)
+- Gemini AI semantic judge for pairs scoring >= 70%
+- Google Sheets batch mode for university-scale analysis
+- Electron desktop app + downloadable PDF reports
+- Detects renamed variables, reformatted, and obfuscated code
+
+</td>
+<td width="50%" valign="top">
+
+**Prep4IISER — EdTech Platform**
+
+Complete learning ecosystem for IISER/IAT aspirants
+
+![EdTech](https://img.shields.io/badge/EdTech-Platform-0D1117?style=flat-square&color=4FC3F7)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=4FC3F7)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=4FC3F7)
+
+- Free structured content + mock test systems
+- CPT vs CBT innovation — unique test formats
+- Session + cookie-based user access control
+- Freemium model with clear monetization path
+- High-scalability target in Indian EdTech market
 
 </td>
 </tr>
@@ -165,44 +175,44 @@ const abhiman = {
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=4FC3F7)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=4FC3F7)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
 **Backend & APIs**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=4FC3F7)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white)
 
 **AI / ML / LLM**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 
-**Databases & Infra**
+**Databases & Infrastructure**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4FC3F7)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 **Data Engineering**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=4FC3F7)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4FC3F7)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -236,15 +246,15 @@ const abhiman = {
 <div align="center">
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhimanRajCoder&show_icons=true&theme=transparent&hide_border=true&title_color=4FC3F7&text_color=E8F4FD&icon_color=4FC3F7&bg_color=0D1117&count_private=true&include_all_commits=true" height="175" />
-  <img src="https://streak-stats.demolab.com?user=AbhimanRajCoder&theme=transparent&hide_border=true&ring=4FC3F7&fire=FF6B6B&currStreakNum=E8F4FD&sideNums=E8F4FD&currStreakLabel=4FC3F7&sideLabels=4FC3F7&dates=8899A6&background=0D1117" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhimanRajCoder&show_icons=true&theme=transparent&hide_border=true&title_color=4FC3F7&text_color=E8F4FD&icon_color=4FC3F7&bg_color=0D1117&count_private=true&include_all_commits=true&ring_color=4FC3F7" height="175" />
+  <img src="https://streak-stats.demolab.com?user=AbhimanRajCoder&theme=transparent&hide_border=true&ring=4FC3F7&fire=4FC3F7&currStreakNum=E8F4FD&sideNums=E8F4FD&currStreakLabel=4FC3F7&sideLabels=4FC3F7&dates=8899A6&background=0D1117&stroke=0D1117" height="175" />
 </p>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhimanRajCoder&layout=compact&theme=transparent&hide_border=true&title_color=4FC3F7&text_color=E8F4FD&bg_color=0D1117&langs_count=8" height="155" />
 </p>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbhimanRajCoder&bg_color=0D1117&color=4FC3F7&line=4FC3F7&point=FFFFFF&area=true&area_color=0D2137&hide_border=true&custom_title=Abhiman's%20Contribution%20Timeline" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbhimanRajCoder&bg_color=0D1117&color=4FC3F7&line=4FC3F7&point=E8F4FD&area=true&area_color=0A2540&hide_border=true&custom_title=Abhiman's%20Contribution%20Timeline&radius=6" />
 
 </div>
 
@@ -254,14 +264,14 @@ const abhiman = {
 
 <div align="center">
 
-| 🏆 Achievement | Detail |
-|---|---|
-| 🍂 **Hacktoberfest** | 6+ PRs merged — open source contributor |
-| 🏥 **Healthcare AI** | Built production-grade multi-agent clinical system (CYNO) |
-| 📊 **Big Data** | Engineered analytics pipeline on 1M+ real UIDAI records |
-| 🎓 **EdTech** | Launched Prep4IISER — structured platform for IISER/IAT aspirants |
-| 🧬 **Identity AI** | Architected RepliWorld — AI-powered human digital replica concept |
-| 💡 **Multi-Domain** | Simultaneous work across AI · EdTech · Healthcare · Data Engineering |
+| Achievement | Detail |
+|:---|:---|
+| **Hacktoberfest** | 6+ PRs merged — open source contributor |
+| **Healthcare AI** | Built production-grade multi-agent clinical system (CYNO) |
+| **Big Data** | Engineered analytics pipeline on 1M+ real UIDAI records |
+| **EdTech** | Launched Prep4IISER — structured platform for IISER/IAT aspirants |
+| **Identity AI** | Architected RepliWorld — AI-powered human digital replica concept |
+| **Multi-Domain** | Simultaneous delivery across AI · EdTech · Healthcare · Data Engineering |
 
 </div>
 
@@ -272,16 +282,16 @@ const abhiman = {
 ```
  STATUS   MILESTONE
 ──────────────────────────────────────────────────────────────────
-  ✅      CYNO v1 — Multi-agent healthcare coordination (shipped)
-  ✅      Prep4IISER — Full EdTech platform (live)
-  ✅      UIDAI Analytics — 1M+ record pipeline (delivered)
-  ✅      RepliWorld — AI digital replica architecture (designed)
-  ✅      Hacktoberfest — 6+ PRs merged (contributor badge)
-  🔄      CYNO v2 — Enhanced orchestration + new specialist agents
-  🔄      Prep4IISER monetization — freemium tier rollout
-  📌      Launch SaaS versions of core products
-  📌      Build personal tech brand + open source presence
-  🚀      Multi-product startup ecosystem (3–5 year vision)
+  [x]     CYNO v1 — Multi-agent healthcare coordination (shipped)
+  [x]     Prep4IISER — Full EdTech platform (live)
+  [x]     UIDAI Analytics — 1M+ record pipeline (delivered)
+  [x]     RepliWorld — AI digital replica architecture (designed)
+  [x]     Hacktoberfest — 6+ PRs merged (contributor badge)
+  [~]     CYNO v2 — Enhanced orchestration + new specialist agents
+  [~]     Prep4IISER monetization — freemium tier rollout
+  [ ]     Launch SaaS versions of core products
+  [ ]     Build personal tech brand + open source presence
+  [ ]     Multi-product startup ecosystem (3-5 year vision)
 ```
 
 ---
@@ -290,11 +300,11 @@ const abhiman = {
 
 <div align="center">
 
-> 💬 *"Don't just build features. Build systems that outlive the sprint."*
+*"Don't just build features. Build systems that outlive the sprint."*
 
-> 💬 *"The best product is one that makes itself obvious — no tutorial needed."*
+*"The best product is one that makes itself obvious — no tutorial needed."*
 
-> 💬 *"Every inefficiency is a startup waiting to be built."*
+*"Every inefficiency is a startup waiting to be built."*
 
 </div>
 
@@ -312,6 +322,6 @@ const abhiman = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:0D1B2A,100:1A1A2E&height=140&section=footer&text=Building+systems+that+matter.&fontSize=18&fontColor=4FC3F7&animation=twinkling&fontAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:0D1B2A,100:0A2540&height=150&section=footer&text=Building+systems+that+matter.&fontSize=18&fontColor=4FC3F7&animation=twinkling&fontAlignY=72" />
 
 </div>
